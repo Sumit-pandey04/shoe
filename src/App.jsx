@@ -4,22 +4,22 @@ import "./App.css";
 
 // Sample data for the shoes
 const shoeData = [
-  { id: 1, name: "Running Shoes", price: 50, image: "src/assets/nike.png" },
-  { id: 2, name: "Sneakers", price: 60, image: "src/assets/nike.png" },
-  { id: 3, name: "Sandals", price: 30, image: "src/assets/nike.png" },
-  { id: 4, name: "Chapl", price: 30, image: "src/assets/nike.png" },
-  { id: 5, name: "Loafers", price: 55, image: "src/assets/nike.png" },
-  { id: 6, name: "Boots", price: 80, image: "src/assets/nike.png" },
-  { id: 7, name: "Flip Flops", price: 20, image: "src/assets/nike.png" },
-  { id: 8, name: "Formal Shoes", price: 70, image: "src/assets/nike.png" },
-  { id: 9, name: "Casual Shoes", price: 65, image: "src/assets/nike.png" },
-  { id: 10, name: "Slippers", price: 25, image: "src/assets/nike.png" },
-  { id: 11, name: "High Heels", price: 90, image: "src/assets/nike.png" },
-  { id: 12, name: "Moccasins", price: 50, image: "src/assets/nike.png" },
-  { id: 13, name: "Ankle Boots", price: 85, image: "src/assets/nike.png" },
-  { id: 14, name: "Running Flats", price: 45, image: "src/assets/nike.png" },
-  { id: 15, name: "Clogs", price: 35, image: "src/assets/nike.png" },
-  { id: 16, name: "Espadrilles", price: 40, image: "src/assets/nike.png" },
+  { id: 1, name: "Running Shoes", price: 50, image: "src/nike.png" },
+  { id: 2, name: "Sneakers", price: 60, image: "src/nike.png" },
+  { id: 3, name: "Sandals", price: 30, image: "src/nike.png" },
+  { id: 4, name: "Chapl", price: 30, image: "src/nike.png" },
+  { id: 5, name: "Loafers", price: 55, image: "src/nike.png" },
+  { id: 6, name: "Boots", price: 80, image: "src/nike.png" },
+  { id: 7, name: "Flip Flops", price: 20, image: "src/nike.png" },
+  { id: 8, name: "Formal Shoes", price: 70, image: "src/nike.png" },
+  { id: 9, name: "Casual Shoes", price: 65, image: "src/nike.png" },
+  { id: 10, name: "Slippers", price: 25, image: "src/nike.png" },
+  { id: 11, name: "High Heels", price: 90, image: "src/nike.png" },
+  { id: 12, name: "Moccasins", price: 50, image: "src/nike.png" },
+  { id: 13, name: "Ankle Boots", price: 85, image: "src/nike.png" },
+  { id: 14, name: "Running Flats", price: 45, image: "src/nike.png" },
+  { id: 15, name: "Clogs", price: 35, image: "src/nike.png" },
+  { id: 16, name: "Espadrilles", price: 40, image: "src/nike.png" },
 ];
 
 const App = () => {
